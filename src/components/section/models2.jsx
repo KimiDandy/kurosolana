@@ -32,12 +32,12 @@ export const SectionModel2 = () => {
         </div>
         <img
           className="2xl:w-[300px] sm:w-[150px] w-[100px] object-cover bottom-10 absolute lg:bottom-20 rounded-[30px]"
-          src="cat/loreng2.jpg"
+          src="cat/kuro1.jpg"
           alt=""
         />
         <img
           className="2xl:w-[260px] sm:w-[150px] w-[100px] object-cover absolute right-0 2xl:bottom-16 2xl:right-0 sm:right-4 bottom-6 lg:right-4 lg:bottom-6 xl:right-20 xl:bottom-0 lg:-z-10 rounded-[30px]"
-          src="cat/loreng3.jpg"
+          src="cat/kuro5.jpg"
           alt=""
         />
       </div>

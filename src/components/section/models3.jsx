@@ -11,7 +11,7 @@ export const SectionModel3 = () => {
       subJudul: "<b>0% Taxes</b>",
     },
     {
-      img: "cat/loreng7.jpg",
+      img: "cat/kuro2.jpg",
       judul: "Join Bonny Family",
       subJudul:
         "join the Bonny family, buy and hold, we will go to the moon together, and we will be trending on dex. If you sell you will regret it for therest of your life",
