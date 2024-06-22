@@ -12,7 +12,7 @@ export const SectionModel3 = () => {
     },
     {
       img: "cat/kuro2.jpg",
-      judul: "Join Bonny Family",
+      judul: "Join Kuro Family",
       subJudul:
         "Join the Kuro family, buy and hold, we will go to the moon together, and we will be trending on dex. If you sell you will regret it for the rest of your life",
     },
