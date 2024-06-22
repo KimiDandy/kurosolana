@@ -3,12 +3,12 @@ export const SectionModel5 = () => {
     {
       icon: "media/Twitter1.png",
       judul: "TWITTER",
-      url: "https://x.com/BonnyOnSol?t=vMoj0ria4KdTo0q7UhyLeg&s=09",
+      url: "https://x.com/KuroOnSolana?t=96W3UNTVS7V95JdKmH9YbQ&s=09",
     },
     {
       icon: "media/Telegram.png",
       judul: "TELEGRAM",
-      url: "https://t.me/BonnyOnSolana",
+      url: "https://t.me/KuroOnSolana",
     },
   ];
   return (

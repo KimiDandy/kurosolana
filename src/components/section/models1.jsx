@@ -30,12 +30,12 @@ export const SectionModel1 = () => {
         </div>
         <div className="--title text-white text-center">
           <div className="--heading font-black text-[40px] sm:text-[70px] md:text-[90px] lg:text-[110px] tracking-wide">
-            SOLANA <span className="text-[#FFD33B]">BONNY</span>
+            SOLANA <span className="text-[#FFD33B]">KURO</span>
           </div>
           <div className="--sub-heading text-[18px] sm:text-[34px] font-medium flex flex-col">
             <span className="text-[#FFD33B] font-black">Join The Family!</span>
             <span className="sm:-mt-2">
-              Together, we&apos;ll get rich. $BONNY Leads the way!
+            It's time for Kuro to become famous
             </span>
           </div>
         </div>

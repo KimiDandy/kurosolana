@@ -3,7 +3,7 @@ export const SectionModel3 = () => {
     {
       img: "cat/kurobg1.jpg",
       judul: "Total Supply",
-      subJudul: "<b>1 Billion $BONNY Tokens</b>",
+      subJudul: "<b>1 Billion $Kuro Tokens</b>",
     },
     {
       img: "cat/kuro6.jpg",
@@ -14,7 +14,7 @@ export const SectionModel3 = () => {
       img: "cat/kuro2.jpg",
       judul: "Join Bonny Family",
       subJudul:
-        "join the Bonny family, buy and hold, we will go to the moon together, and we will be trending on dex. If you sell you will regret it for therest of your life",
+        "Join the Kuro family, buy and hold, we will go to the moon together, and we will be trending on dex. If you sell you will regret it for the rest of your life",
     },
   ];
 
