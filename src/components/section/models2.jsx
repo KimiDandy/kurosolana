@@ -48,7 +48,7 @@ export const SectionModel2 = () => {
         </div>
         <div className="--body flex flex-col gap-4">
           <p className="text-[18px] text-white font-medium lg:text-left text-center">
-            Once upon a time in a cozy town, roamed a deer hat cat name Kuro.
+            Once upon a time in a cozy town, roamed a cat name Kuro.
             With his soft and cute fur, Kuro captures the hearts of everyone
             who sees him. Her humorous demeanor and graceful movements captivate
             even the most stoic of souls.
