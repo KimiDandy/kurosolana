@@ -10,7 +10,7 @@ export function HomePage() {
       className="relative min-h-screen bg-cover bg-center bg-no-repeat"
       style={{
         backgroundImage:
-          "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('cat/kurobg1.jpg')",
+          "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('cat/chibi3.jpg')",
         backgroundAttachment: "fixed",
       }}
     >

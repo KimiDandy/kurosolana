@@ -1,20 +1,20 @@
 export const SectionModel3 = () => {
   const dataCard = [
     {
-      img: "cat/kurobg1.jpg",
+      img: "cat/chibi1.jpg",
       judul: "Total Supply",
-      subJudul: "<b>1 Billion $Kuro Tokens</b>",
+      subJudul: "<b>1 Billion $Chibi Tokens</b>",
     },
     {
-      img: "cat/kuro6.jpg",
+      img: "cat/chibi2.jpg",
       judul: "Taxes",
       subJudul: "<b>0% Taxes</b>",
     },
     {
-      img: "cat/kuro2.jpg",
-      judul: "Join Kuro Family",
+      img: "cat/chibi3.jpg",
+      judul: "Join Chibi Family",
       subJudul:
-        "Join the Kuro family, buy and hold, we will go to the moon together, and we will be trending on dex. If you sell you will regret it for the rest of your life",
+        "Join the Chibi family, buy and hold, we will go to the moon together, and we will be trending on dex. If you sell you will regret it for the rest of your life",
     },
   ];
 
